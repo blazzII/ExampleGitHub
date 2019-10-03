@@ -8,6 +8,7 @@ namespace ExampleGitHub
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Welcome!");
+            Console.WriteLine("This is the .NET Core Framework.");
         }
     }
 }
